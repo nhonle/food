@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # Screenshots
-![](screen/shoot/detail.png)
+![](screenshoot/detail.png)
 
 ## Getting Started
 
