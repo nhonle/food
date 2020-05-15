@@ -1,9 +1,17 @@
-# flutter_foody
+# Flutter - Create UI Foody App 
 
-A new Flutter project.
 
 # Screenshots
-![](screenshoot/detail.png)
+
+
+<img src="screenshots/plash.png" width = "281" height = "500">
+
+
+<img src="screenshots/home.png" width = "281" height = "500">
+
+
+<img src="screenshots/detail.png" width = "281" height = "500">
+
 
 ## Getting Started
 
