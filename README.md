@@ -4,13 +4,13 @@
 # Screenshots
 
 
-<img src="screenshots/splash.png" width = "281" height = "500">
+<img src="screenshots/splash.png" width = "323" height = "700">
 
 
-<img src="screenshots/home.png" width = "281" height = "500">
+<img src="screenshots/home.png" width = "323" height = "700">
 
 
-<img src="screenshots/detail.png" width = "281" height = "500">
+<img src="screenshots/detail.png" width = "323" height = "700">
 
 
 ## Getting Started
