@@ -4,7 +4,7 @@
 # Screenshots
 
 
-<img src="screenshots/plash.png" width = "281" height = "500">
+<img src="screenshots/splash.png" width = "281" height = "500">
 
 
 <img src="screenshots/home.png" width = "281" height = "500">
